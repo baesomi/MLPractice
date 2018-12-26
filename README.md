@@ -1,3 +1,3 @@
 # MLPractice
 
-### Machine Leraning Practice Source code
+### Practice and Commit Machine Leraning Example Source code
