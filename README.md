@@ -4,7 +4,7 @@
 
 ###### 2019년 5월 20일
 - 911 calls visualization    
-  Problem: 머신러닝은 아니고 그냥 데이터 시각화
+  Problem: 머신러닝은 아니고 그냥 데이터 시각화  
   [Get Data] (https://www.kaggle.com/mchirico/montcoalert) 
 
 ###### 2019년 5월 15일
