@@ -2,6 +2,11 @@
 
 ### 기계학습 연습 실습
 
+###### 2019년 5월 29일
+- black friday analysis and prediction
+  Problem: Predict purchase amount. 
+  [Get Data](https://datahack.analyticsvidhya.com/contest/black-friday/) 
+
 ###### 2019년 5월 20일
 - 911 calls visualization    
   Problem: 머신러닝은 아니고 그냥 데이터 시각화  
